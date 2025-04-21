@@ -1,0 +1,12 @@
+Exp 2 basic command in Linux
+1.ifconfig
+2.ip
+.ip a
+.ip addr
+3.tracepath
+4.ping google.com
+5.dig google.com 
+6.arp
+7.iwconfig
+8.hostname
+9.whois
